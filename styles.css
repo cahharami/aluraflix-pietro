@@ -1,0 +1,13 @@
+body {
+    color:  white;
+    background: black;
+    margin: 0px;
+    font-family:"Robot" ,sans-serif;
+    margin-bottom:100px;
+}
+header {
+    border-bottom: solid 2px rgb rgb(0, 0, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 0, 255);
+}
